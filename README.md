@@ -20,6 +20,14 @@ It helps streamline reservation handling, guest management, and overall organiza
   Remove unwanted or completed bookings.
 
 ---
+## 📁 Project Structure
+
+src/
+ └── main/
+      └── java/
+           └── com/hotel/reservation/
+                └── HotelReservationSystem.java
+-----              
 
 ## 💻 Tech Stack
 
@@ -50,6 +58,9 @@ Configure database in your Java file:
 private static final String DB_URL = "jdbc:mysql://localhost:3306/hotel_db";
 private static final String DB_USER = "your_username";
 private static final String DB_PASSWORD = "your_password";
+
+--- 
+
 Compile and run the project
 📋 Usage
 Run the application
