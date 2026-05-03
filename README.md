@@ -43,7 +43,7 @@ It helps streamline reservation handling, guest management, and overall organiza
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Hotel-Reservation-System.git
+   git clone https://github.com/Dudhesakshi/Hotel-Reservation-System.git
 
 Configure database in your Java file:
 
